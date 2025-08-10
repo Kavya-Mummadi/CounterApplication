@@ -36,12 +36,12 @@ It allows users to increase, decrease, or reset a counter value in real time.
 ## 📂 Folder Structure
 
 ```bash
-Counter-App/
-├── counter.html      # Main HTML file
-├── counter.css      # Custom CSS styles
-├── counter.js       # JavaScript logic for counter
-├── vercel.json      # Deployment config (if using Vercel) 
-└── README.md        # Project documentation
+Counter-Application/
+  ├── counter.html      # Main HTML file
+  ├── counter.css      # Custom CSS styles
+  ├── counter.js       # JavaScript logic for counter
+  ├── vercel.json      # Deployment config (if using Vercel) 
+  └── README.md        # Project documentation
 
 ```
 
